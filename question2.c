@@ -2,7 +2,8 @@
 
 int main()
 {
-   // added the hash sign to the include <stdio.h> 
+  
+// hash infront of include <stdio.h>
     printf("Learning C Programming");
 
     return 0;
